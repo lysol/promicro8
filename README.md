@@ -9,9 +9,9 @@ I haven't set mine up to use a regulator yet, but I don't know for sure how the 
 
 # panel
 
-![image](https://user-images.githubusercontent.com/55573/120209393-417faf00-c1f4-11eb-9779-f85efa5d57de.png)
+![image](panel.png)
 
 
 # schematic
 
-![image](https://user-images.githubusercontent.com/55573/120211250-53fae800-c1f6-11eb-9477-fc228bd5ab3f.png)
+![image](schematic.png)
