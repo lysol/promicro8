@@ -10,4 +10,4 @@ See `promicro.ino` for constants that should be changed to your liking, includin
 
 # schematic
 
-![image](https://user-images.githubusercontent.com/55573/120209376-3b89ce00-c1f4-11eb-9c8d-c16593adaadd.png)
+![image](https://user-images.githubusercontent.com/55573/120211250-53fae800-c1f6-11eb-9477-fc228bd5ab3f.png)
